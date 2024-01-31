@@ -1,2 +1,3 @@
 [dev]
+10..0.2.6 amsible_user=webserver
 10.0.2.12 ansible_user=osboxes
